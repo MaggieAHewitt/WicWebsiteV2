@@ -99,7 +99,16 @@ ul{
 	color:#9274AD;
 }
 
+
 /********** About Page ***********/
 .side-nav a{
 	color:#9274AD;
+}
+
+/********** News Page ***********/
+.news .news-header i{
+	color:#9274AD;
+}
+.news .news-footer{
+	color:grey;
 }
