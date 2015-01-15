@@ -1,0 +1,31 @@
+#ritMetanavWrapper{
+	height:51px;
+}
+
+#metaRitHeader{
+	margin-left:50px;
+	width:400px;
+}
+
+#ritMetanavWrapper a{
+	color:#000000;
+}
+
+#metaritlogo{
+	width:90px;
+	margin-top:-5px;
+}
+
+#metarit{
+	font-family:Times;
+	font-size:18px;
+	margin-top:13px;
+}
+
+#metaritRight{
+}
+
+#ritmetaSearch{
+	height:38px;
+}
+

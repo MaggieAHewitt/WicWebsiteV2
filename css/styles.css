@@ -4,7 +4,7 @@ html{
 	min-height:100%;
 }
 body{
-	margin-bottom:80px;
+	margin-bottom:150px;
 }
 hr{
 	margin-top:10px;
@@ -55,18 +55,25 @@ ul{
 	position:absolute;
 	bottom:0px;
 	width:100%;
-	height:80px;
+	height:150px;
 	padding:10px;
+}
+#wicfooter{
+	color:#CD9EF9;
+	padding-left:20px;
+	padding-right:20px;
+}
+#wicfooter a,i{
+	color:#9274AD;
+}
+#ritfooter{
 	color:#ffffff;
 	background-color:#4E4C4F;
+	padding:20px;
 }
-.footer a{
-	color:#ffffff;
+#ritfooter a{
+	color:#919191;
 }
-.footer i{
-	color:#CD9EF9;
-}
-
 /********** Index Page ***********/
 .article-row{
 	margin-bottom:10px;
